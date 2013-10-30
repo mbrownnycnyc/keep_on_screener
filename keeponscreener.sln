@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "keeponscreener", "keeponscreener.csproj", "{F317AF2E-9704-4A2A-BDAE-B4662ED9483B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F317AF2E-9704-4A2A-BDAE-B4662ED9483B}.Debug|x86.ActiveCfg = Release|x86
+		{F317AF2E-9704-4A2A-BDAE-B4662ED9483B}.Debug|x86.Build.0 = Release|x86
+		{F317AF2E-9704-4A2A-BDAE-B4662ED9483B}.Release|x86.ActiveCfg = Release|x86
+		{F317AF2E-9704-4A2A-BDAE-B4662ED9483B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
